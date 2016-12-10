@@ -4,7 +4,13 @@
 
 <Workspace>
 	<Local Expanded="Yes" Name="MyBatisUML" Selected="Yes">
-		<Model Expanded="Yes" ID="{74C3A24C-2BF4-4C99-BCFC-BD122B5FC1AA}" Name="ObjectOrientedModel_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_1.oom"/>
+		<Model ID="{74C3A24C-2BF4-4C99-BCFC-BD122B5FC1AA}" Name="SqlSession" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectOrientedModel_1.oom"/>
+		<Model ID="{C647FCA2-D162-4FEA-AE6C-2E84B219EC8B}" Name="KeyGenerator" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="KeyGenerator.oom"/>
+		<Model ID="{BEAE97C7-D052-4515-A773-7C3EBF002C5B}" Name="MyBatis插入时序图" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="MyBatis插入时序图.oom"/>
+		<Model ID="{85D1C83B-EE63-4F48-A9A5-0AB226FE51D0}" Name="StatementHandler" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="StatementHandler.oom"/>
+		<Model ID="{AFA170ED-0FFB-40C5-BAD7-FAC48E0142AF}" Name="Executor" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Executor.oom"/>
+		<Model ID="{D24A88A3-07F4-410B-B900-AB097DA6CBF9}" Name="Invoker" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Invoker.oom"/>
+		<Model ID="{252903D6-9F5F-4C65-AA9D-CCEF830C2348}" Name="ObjectWrapper" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ObjectWrapper.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
