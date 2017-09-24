@@ -1,0 +1,6 @@
+通知类型的实现基本上都是AspectJ的类实现的。
+AspectJAfterAdvice：后置通知。
+AspectJAfterReturningAdvice：后置返回通知。
+AspectJAroundAdvice：环绕通知。
+AspectJAfterThrowingAdvice：后置异常通知。
+AspectJMethodBeforeAdvice：前置同时。

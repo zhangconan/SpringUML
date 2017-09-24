@@ -4,8 +4,9 @@
 
 <Workspace>
 	<Local Expanded="Yes" Name="SpringMVC">
-		<Model Expanded="Yes" ID="{7EB9B40D-E72B-4DDB-A2DF-4BBA8325B40B}" Loaded="No" Name="JsonRequest" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="JsonRequest.oom"/>
-		<Model ID="{9E2B4B66-9183-4B7D-A21B-7A45021D458C}" Loaded="No" Name="ObjectOrientedModel_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ContextLoaderListener.oom"/>
+		<Model ID="{7EB9B40D-E72B-4DDB-A2DF-4BBA8325B40B}" Name="JsonRequest" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="JsonRequest.oom"/>
+		<Model Expanded="Yes" ID="{9E2B4B66-9183-4B7D-A21B-7A45021D458C}" Name="ObjectOrientedModel_2" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ContextLoaderListener.oom"/>
+		<Model Expanded="Yes" ID="{14454445-FBB5-4343-B6A9-C39416615585}" Name="ObjectOrientedModel_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ProcessRequest.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
