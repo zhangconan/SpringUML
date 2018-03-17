@@ -1,0 +1,10 @@
+传统Spring创建AOP代理对象，主要的类是：AopNamespaceHandler。
+SpringBoot创建AOP代理对象，主要的类是：AopAutoConfiguration。
+
+解析AOP配置的主要的类是：
+传统Spring：AspectJAutoProxyBeanDefinitionParser。
+SpringBoot：AspectJAutoProxyRegistrar。
+
+
+主要类：
+	AnnotationAwareAspectJAutoProxyCreator
